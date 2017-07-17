@@ -1,0 +1,3 @@
+This is Roy, I created this text file on July 17 2017 at 1014 AM pacific standard time.
+
+Please checkout this branch & file, edit it on a new line, save the file up, git commit, and then git push to commit it to the repository.
